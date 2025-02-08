@@ -22,7 +22,7 @@
 
 <h2>🌟 Let's Connect!</h2>
 
-💼 LinkedIn: Your LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/pooja-c03
 
 📧 Email: pooja0909.c@gmail.com
 
