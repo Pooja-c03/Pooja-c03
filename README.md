@@ -8,7 +8,7 @@
 
 📊 Enthralled by the world of Data Science, Analytics, and Machine Learning, leveraging insights from data for impactful solutions.
 
-🌍 Exploring the world of Backend Development & Full-Stack Engineering.
+🌍 Exploring the world of Backend Development.
 
 🚀 Always learning and growing in Python, C++, Databases, and Web Technologies.
 
