@@ -1,4 +1,7 @@
-<img src="https://octodex.github.com/images/femalecodertocat.png" height="400"/>
+<p align="center">
+  <img src="https://octodex.github.com/images/femalecodertocat.png" height="400"/>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
